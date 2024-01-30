@@ -1,0 +1,58 @@
+{
+  "name": "react-sugar",
+  "displayName": "React Sugar",
+  "description": "React Sugar is a compilation of React snippets designed for use in Visual Studio Code. These snippets facilitate the insertion of classNames, both with and without curly braces, through concise shortcut tag names.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurupawar/react-sugar"
+  },
+  "keywords": [
+    "react sugar",
+    "reactjs",
+    "javascript",
+    "jsx`",
+    "js",
+    "ts",
+    "tsx",
+    "typescript",
+    "typescriptreact",
+    "typescriptreact"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "tsx",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "jsx",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

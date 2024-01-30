@@ -1,0 +1,427 @@
+{
+  "div": {
+    "prefix": "divc",
+    "body": ["<div className=\"$1\">$2</div>"],
+    "description": "Create a div with a className attribute"
+  },
+  "p": {
+    "prefix": "pc",
+    "body": ["<p className=\"$1\">$2</p>"],
+    "description": "Create a p with a className attribute"
+  },
+  "span": {
+    "prefix": "spanc",
+    "body": ["<span className=\"$1\">$2</span>"],
+    "description": "Create a span with a className attribute"
+  },
+  "a": {
+    "prefix": "ac",
+    "body": ["<a className=\"$1\">$2</a>"],
+    "description": "Create a anchor with a className attribute"
+  },
+  "button": {
+    "prefix": "buttonc",
+    "body": ["<button className=\"$1\">$2</button>"],
+    "description": "Create a button with a className attribute"
+  },
+  "li": {
+    "prefix": "lic",
+    "body": ["<li className=\"$1\">$2</li>"],
+    "description": "Create a li with a className attribute"
+  },
+  "ul": {
+    "prefix": "ulc",
+    "body": ["<ul className=\"$1\">$2</ul>"],
+    "description": "Create a ul with a className attribute"
+  },
+  "h1": {
+    "prefix": "h1c",
+    "body": ["<h1 className=\"$1\">$2</h1>"],
+    "description": "Create a h1 with a className attribute"
+  },
+  "h2": {
+    "prefix": "h2c",
+    "body": ["<h2 className=\"$1\">$2</h2>"],
+    "description": "Create a h2 with a className attribute"
+  },
+  "h3": {
+    "prefix": "h3c",
+    "body": ["<h3 className=\"$1\">$2</h3>"],
+    "description": "Create a h3 with a className attribute"
+  },
+  "h4": {
+    "prefix": "h4c",
+    "body": ["<h4 className=\"$1\">$2</h4>"],
+    "description": "Create a h4 with a className attribute"
+  },
+  "h5": {
+    "prefix": "h5c",
+    "body": ["<h5 className=\"$1\">$2</h5>"],
+    "description": "Create a h5 with a className attribute"
+  },
+  "h6": {
+    "prefix": "h6c",
+    "body": ["<h6 className=\"$1\">$2</h6>"],
+    "description": "Create a h6 with a className attribute"
+  },
+  "input": {
+    "prefix": "inputc",
+    "body": ["<input className=\"$1\" />"],
+    "description": "Create an input with a className attribute"
+  },
+  "textarea": {
+    "prefix": "textareac",
+    "body": ["<textarea className=\"$1\">$2</textarea>"],
+    "description": "Create a textarea with a className attribute"
+  },
+  "img": {
+    "prefix": "imgc",
+    "body": ["<img className=\"$1\" src=\"$2\" />"],
+    "description": "Create an img with a className attribute"
+  },
+  "svg": {
+    "prefix": "svgc",
+    "body": ["<svg className=\"$1\">$2</svg>"],
+    "description": "Create a svg with a className attribute"
+  },
+  "table": {
+    "prefix": "tablec",
+    "body": ["<table className=\"$1\">$2</table>"],
+    "description": "Create a table with a className attribute"
+  },
+  "tbody": {
+    "prefix": "tbodyc",
+    "body": ["<tbody className=\"$1\">$2</tbody>"],
+    "description": "Create a tbody with a className attribute"
+  },
+  "td": {
+    "prefix": "tdc",
+    "body": ["<td className=\"$1\">$2</td>"],
+    "description": "Create a td with a className attribute"
+  },
+  "thead": {
+    "prefix": "theadc",
+    "body": ["<thead className=\"$1\">$2</thead>"],
+    "description": "Create a thead with a className attribute"
+  },
+  "tfoot": {
+    "prefix": "tfootc",
+    "body": ["<tfoot className=\"$1\">$2</tfoot>"],
+    "description": "Create a tfoot with a className attribute"
+  },
+  "select": {
+    "prefix": "selectc",
+    "body": ["<select className=\"$1\">$2</select>"],
+    "description": "Create a select with a className attribute"
+  },
+  "section": {
+    "prefix": "sectionc",
+    "body": ["<section className=\"$1\">$2</section>"],
+    "description": "Create a section with a className attribute"
+  },
+  "pre": {
+    "prefix": "prec",
+    "body": ["<pre className=\"$1\">$2</pre>"],
+    "description": "Create a pre with a className attribute"
+  },
+  "picture": {
+    "prefix": "picturec",
+    "body": ["<picture className=\"$1\">$2</picture>"],
+    "description": "Create a picture with a className attribute"
+  },
+  "option": {
+    "prefix": "optionc",
+    "body": ["<option className=\"$1\">$2</option>"],
+    "description": "Create an option with a className attribute"
+  },
+  "optgroup": {
+    "prefix": "optgroupc",
+    "body": ["<optgroup className=\"$1\">$2</optgroup>"],
+    "description": "Create an optgroup with a className attribute"
+  },
+  "nav": {
+    "prefix": "navc",
+    "body": ["<nav className=\"$1\">$2</nav>"],
+    "description": "Create a nav with a className attribute"
+  },
+  "main": {
+    "prefix": "mainc",
+    "body": ["<main className=\"$1\">$2</main>"],
+    "description": "Create a main with a className attribute"
+  },
+  "iframe": {
+    "prefix": "iframec",
+    "body": ["<iframe className=\"$1\">$2</iframe>"],
+    "description": "Create an iframe with a className attribute"
+  },
+  "form": {
+    "prefix": "formc",
+    "body": ["<form className=\"$1\">$2</form>"],
+    "description": "Create a form with a className attribute"
+  },
+  "footer": {
+    "prefix": "footerc",
+    "body": ["<footer className=\"$1\">$2</footer>"],
+    "description": "Create a footer with a className attribute"
+  },
+  "figure": {
+    "prefix": "figurec",
+    "body": ["<figure className=\"$1\">$2</figure>"],
+    "description": "Create a figure with a className attribute"
+  },
+  "caption": {
+    "prefix": "captionc",
+    "body": ["<caption className=\"$1\">$2</caption>"],
+    "description": "Create a caption with a className attribute"
+  },
+  "canvas": {
+    "prefix": "canvasc",
+    "body": ["<canvas className=\"$1\">$2</canvas>"],
+    "description": "Create a canvas with a className attribute"
+  },
+
+  "footer": {
+    "prefix": "footerc",
+    "body": ["<footer className=\"$1\">$2</footer>"],
+    "description": "Create a footer with a className attribute"
+  },
+  "footerd": {
+    "prefix": "footercd",
+    "body": ["<footer className={$1}>$2</footer>"],
+    "description": "Create a footer with a className attribute"
+  },
+
+  "article": {
+    "prefix": "articlec",
+    "body": ["<article className=\"$1\">$2</article>"],
+    "description": "Create a article with a className attribute"
+  },
+  "articled": {
+    "prefix": "articlecd",
+    "body": ["<article className={$1}>$2</article>"],
+    "description": "Create a article with a className attribute"
+  },
+
+  "article": {
+    "prefix": "articlec",
+    "body": ["<article className=\"$1\">$2</article>"],
+    "description": "Create a article with a className attribute"
+  },
+  "articled": {
+    "prefix": "articlecd",
+    "body": ["<article className={$1}>$2</article>"],
+    "description": "Create a article with a className attribute"
+  },
+
+  "ol": {
+    "prefix": "olc",
+    "body": ["<ol className=\"$1\">$2</ol>"],
+    "description": "Create a ol with a className attribute"
+  },
+  "old": {
+    "prefix": "olcd",
+    "body": ["<ol className={$1}>$2</ol>"],
+    "description": "Create a ol with a className attribute"
+  },
+  "th": {
+    "prefix": "thc",
+    "body": ["<th className=\"$1\">$2</th>"],
+    "description": "Create a th with a className attribute"
+  },
+  "thd": {
+    "prefix": "thcd",
+    "body": ["<th className={$1}>$2</th>"],
+    "description": "Create a th with a className attribute"
+  },
+  "tr": {
+    "prefix": "trc",
+    "body": ["<tr className=\"$1\">$2</tr>"],
+    "description": "Create a tr with a className attribute"
+  },
+  "trd": {
+    "prefix": "trcd",
+    "body": ["<tr className={$1}>$2</tr>"],
+    "description": "Create a tr with a className attribute"
+  },
+
+  "divd": {
+    "prefix": "divcd",
+    "body": ["<div className={$1}>$2</div>"],
+    "description": "Create a div with a className attribute"
+  },
+  "pd": {
+    "prefix": "pcd",
+    "body": ["<p className={$1}>$2</p>"],
+    "description": "Create a p with a className attribute"
+  },
+  "spand": {
+    "prefix": "spancd",
+    "body": ["<span className={$1}>$2</span>"],
+    "description": "Create a span with a className attribute"
+  },
+  "ad": {
+    "prefix": "acd",
+    "body": ["<a className={$1}>$2</a>"],
+    "description": "Create a anchor with a className attribute"
+  },
+  "buttond": {
+    "prefix": "buttoncd",
+    "body": ["<button className={$1}>$2</button>"],
+    "description": "Create a button with a className attribute"
+  },
+  "lid": {
+    "prefix": "licd",
+    "body": ["<li className={$1}>$2</li>"],
+    "description": "Create a li with a className attribute"
+  },
+  "uld": {
+    "prefix": "ulcd",
+    "body": ["<ul className={$1}>$2</ul>"],
+    "description": "Create a ul with a className attribute"
+  },
+  "h1d": {
+    "prefix": "h1cd",
+    "body": ["<h1 className={$1}>$2</h1>"],
+    "description": "Create a h1 with a className attribute"
+  },
+  "h2d": {
+    "prefix": "h2cd",
+    "body": ["<h2 className={$1}></h2>"],
+    "description": "Create a h2 with a className attribute"
+  },
+  "h3d": {
+    "prefix": "h3cd",
+    "body": ["<h3 className={$1}>$2</h3>"],
+    "description": "Create a h3 with a className attribute"
+  },
+  "h4d": {
+    "prefix": "h4cd",
+    "body": ["<h4 className={$1}>$2</h4>"],
+    "description": "Create a h4 with a className attribute"
+  },
+  "h5d": {
+    "prefix": "h5cd",
+    "body": ["<h5 className={$1}>$2</h5>"],
+    "description": "Create a h5 with a className attribute"
+  },
+  "h6d": {
+    "prefix": "h6cd",
+    "body": ["<h6 className={$1}>$2</h6>"],
+    "description": "Create a h6 with a className attribute"
+  },
+  "inputd": {
+    "prefix": "inputcd",
+    "body": ["<input className={$1} />"],
+    "description": "Create an input with a className attribute"
+  },
+  "textaread": {
+    "prefix": "textareacd",
+    "body": ["<textarea className={$1}>$2</textarea>"],
+    "description": "Create a textarea with a className attribute"
+  },
+  "imgd": {
+    "prefix": "imgcd",
+    "body": ["<img className={$1} src=\"$2\" />"],
+    "description": "Create an img with a className attribute"
+  },
+  "svgd": {
+    "prefix": "svgcd",
+    "body": ["<svg className={$1}>$2</svg>"],
+    "description": "Create a svg with a className attribute"
+  },
+  "tabled": {
+    "prefix": "tablecd",
+    "body": ["<table className={$1}>$2</table>"],
+    "description": "Create a table with a className attribute"
+  },
+  "tbodyd": {
+    "prefix": "tbodycd",
+    "body": ["<tbody className={$1}>$2</tbody>"],
+    "description": "Create a tbody with a className attribute"
+  },
+  "tdd": {
+    "prefix": "tdcd",
+    "body": ["<td className={$1}>$2</td>"],
+    "description": "Create a td with a className attribute"
+  },
+  "theadd": {
+    "prefix": "theadcd",
+    "body": ["<thead className={$1}>$2</thead>"],
+    "description": "Create a thead with a className attribute"
+  },
+  "tfootd": {
+    "prefix": "tfootcd",
+    "body": ["<tfoot className={$1}>$2</tfoot>"],
+    "description": "Create a tfoot with a className attribute"
+  },
+  "selectd": {
+    "prefix": "selectcd",
+    "body": ["<select className={$1}>$2</select>"],
+    "description": "Create a select with a className attribute"
+  },
+  "sectiond": {
+    "prefix": "sectioncd",
+    "body": ["<section className={$1}>$2</section>"],
+    "description": "Create a section with a className attribute"
+  },
+  "pred": {
+    "prefix": "precd",
+    "body": ["<pre className={$1}>$2</pre>"],
+    "description": "Create a pre with a className attribute"
+  },
+  "pictured": {
+    "prefix": "picturecd",
+    "body": ["<picture className={$1}>$2</picture>"],
+    "description": "Create a picture with a className attribute"
+  },
+  "optiond": {
+    "prefix": "optioncd",
+    "body": ["<option className={$1}>$2</option>"],
+    "description": "Create an option with a className attribute"
+  },
+  "optgroupd": {
+    "prefix": "optgroupcd",
+    "body": ["<optgroup className={$1}>$2</optgroup>"],
+    "description": "Create an optgroup with a className attribute"
+  },
+  "navd": {
+    "prefix": "navcd",
+    "body": ["<nav className={$1}>$2</nav>"],
+    "description": "Create a nav with a className attribute"
+  },
+  "maind": {
+    "prefix": "maincd",
+    "body": ["<main className={$1}>$2</main>"],
+    "description": "Create a main with a className attribute"
+  },
+  "iframed": {
+    "prefix": "iframecd",
+    "body": ["<iframe className={$1}>$2</iframe>"],
+    "description": "Create an iframe with a className attribute"
+  },
+  "formd": {
+    "prefix": "formcd",
+    "body": ["<form className={$1}>$2</form>"],
+    "description": "Create a form with a className attribute"
+  },
+  "footerd": {
+    "prefix": "footercd",
+    "body": ["<footer className={$1}>$2</footer>"],
+    "description": "Create a footer with a className attribute"
+  },
+  "figured": {
+    "prefix": "figurecd",
+    "body": ["<figure className={$1}>$2</figure>"],
+    "description": "Create a figure with a className attribute"
+  },
+  "captiond": {
+    "prefix": "captioncd",
+    "body": ["<caption className={$1}>$2</caption>"],
+    "description": "Create a caption with a className attribute"
+  },
+  "canvasd": {
+    "prefix": "canvascd",
+    "body": ["<canvas className={$1}>$2</canvas>"],
+    "description": "Create a canvas with a className attribute"
+  }
+}
