@@ -4,6 +4,7 @@
   "description": "React Sugar is a compilation of React snippets designed for use in Visual Studio Code. These snippets facilitate the insertion of classNames, both with and without curly braces, through concise shortcut tag names.",
   "version": "0.0.1",
   "license": "MIT",
+  "publisher": "",
   "icon": "icon.png",
   "repository": {
     "type": "git",

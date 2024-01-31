@@ -180,17 +180,6 @@
     "description": "Create a canvas with a className attribute"
   },
 
-  "footer": {
-    "prefix": "footerc",
-    "body": ["<footer className=\"$1\">$2</footer>"],
-    "description": "Create a footer with a className attribute"
-  },
-  "footerd": {
-    "prefix": "footercd",
-    "body": ["<footer className={$1}>$2</footer>"],
-    "description": "Create a footer with a className attribute"
-  },
-
   "article": {
     "prefix": "articlec",
     "body": ["<article className=\"$1\">$2</article>"],

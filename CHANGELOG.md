@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "tagclassname" extension will be documented in this file.
+This document serves as a comprehensive record of all noteworthy modifications made to the "React Sugar" extension.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+For guidance on structuring this file, please refer to Keep a Changelog.
 
-## [Unreleased]
-
-- Initial release
+[Unreleased]
+Added
+Inaugural release
